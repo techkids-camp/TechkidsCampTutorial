@@ -1,0 +1,28 @@
+{
+    "name": "pxt-tutorial-sample",
+    "version": "0.0.3",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+        "first-tutorial.md",
+        "second-tutorial.md",
+        "_locales/zh-CN/first-tutorial.md",
+        "_locales/de-DE/first-tutorial.md",
+        "custom.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.0.16",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj"
+}

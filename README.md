@@ -1,36 +1,19 @@
-# TEST
+# TechkidsCAMP
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+テックキッズスクールのテスト
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+## タイトル１のテスト
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+本文のテスト
 
-# Sample MakeCode Tutorial
+* [github](https://github.com/maple-1031/TechkidsCampTutorial) にmdファイルをアップロードすると、
+* **Github Action** がスタートして、
+* およそ*7分*で
+* [makecode](https://minecraft.makecode.com/#tutorial:https://github.com/maple-1031/TechkidsCampTutorial) にアップロードされます。
 
-This repository is an example of how to host a MakeCode tutorial on Github. This particular tutorial is for MakeCode Arcade, but this is fully supported for micro:bit and Minecraft as well.
+## タイトル２のテスト
 
-## TESTTEST????????
-
-To create your tutorial repository:
-
-* Open [https://arcade.makecode.com/](https://arcade.makecode.com/) (or makecode.microbit.org, minecraft.makecode.com)
-* Click on **New Project**
-* Give the project a descriptive name
-* Click on the **Github Icon** on the bottom toolbar next to the project name and sign in if prompted
-* Click **Go ahead**
-
-This will make an empty MakeCode repository in your Github account.
-
-## Tutorial Files
-
-By default, the content from the README file is loaded as a tutorial. You can view it using this URL:
+![](https://raw.githubusercontent.com/maple-1031/TechkidsCampTutorial/master/images/TKC_1408x300.png)
 
 > [http://arcade.makecode.com/#tutorial:https://github.com/microsoft/pxt-tutorial-sample](http://arcade.makecode.com/#tutorial:https://github.com/microsoft/pxt-tutorial-sample)
 

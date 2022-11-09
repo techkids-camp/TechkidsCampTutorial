@@ -12,7 +12,8 @@
         "second-tutorial.md",
         "move-tutorial.md",
         "move-00.md",
-        "test-folder/test.md"
+        "./test-folder/test.md",
+        "/test-folder/test.md"
     ],
     "testFiles": [
     ],

@@ -1,16 +1,34 @@
-# TechkidsCAMP
+# Welcome to the TechkidsCampTutorial wiki!
 
-テックキッズスクールのテスト
+## 目次
+* 概要
+* 作成
+* アップロード
 
-## タイトル１のテスト
+### 概要
+CAMPでは新知識の導入のために、makecodeの「チュートリアル」というフレームワークを使っています。
+Minecraft内の画面で（＝POLTAに遷移することなく）、新たな知識やヒントを表示させることができます（画像参照）。
 
-本文のテスト
+他にも、
+* 管理者がプログラムに使用するブロックを制限する。
+* あらかじめ作成したプログラムを表示する。
+* gifファイルやpngファイル等を表示する。
 
-* [github](https://github.com/maple-1031/TechkidsCampTutorial) にmdファイルをアップロードすると、
-* **Github Action** がスタートして、
-* およそ*7分*で
-* [makecode](https://minecraft.makecode.com/#tutorial:https://github.com/maple-1031/TechkidsCampTutorial) にアップロードされます。
+などといったことができます。
 
-## タイトル２のテスト
+### アップロード
+全てのチュートリアルは、
+```
+開発者のローカル　→ GitHub Actions → makecode
+```
+という流れでアップされていきます。
 
-![](https://raw.githubusercontent.com/maple-1031/TechkidsCampTutorial/master/images/TKC_1408x300.png)
+1. 開発者のローカルでチュートリアルファイルを作成し、ルートディレクトリ直下に保存します。
+
+2. pxt.jsonに作成したファイルを追加します。
+
+3. GitHubのリポジトリに作成したファイルをPushします。
+
+4. GitHub Actionsが実行されるので、終わるまで待機します。
+
+5. ビルドが完了したら、<https://minecraft.makecode.com/#tutorial:https://github.com/camp-minecraft/TechkidsCampTutorial/[チュートリアルファイルの名前]>にチュートリアルがデプロイされています！

@@ -15,7 +15,8 @@
         "move-01.md",
         "setBlock-tutorial.md",
         "destroyBlock-tutorial.md",
-        "while-tutorial.md"
+        "while-tutorial.md",
+        "general.md"
     ],
     "testFiles": [
     ],

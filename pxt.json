@@ -12,7 +12,10 @@
         "second-tutorial.md",
         "move-tutorial.md",
         "move-00.md",
-        "move-01.md"
+        "move-01.md",
+        "setBlock-tutorial.md",
+        "destroyBlock.md",
+        "while-tutorial.md"
     ],
     "testFiles": [
     ],

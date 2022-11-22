@@ -9,7 +9,7 @@
 ## エージェントを動かしてみよう！
 
 ``||agent.エージェントを前に１ブロック移動させる||``ブロックは、エージェントを動かすことができるよ！
-右下の![](https://raw.githubusercontent.com/maple-1031/TechkidsCampTutorial/master/images/playbutton.png)を押してプログラムを動かしてみよう！
+右下の![](https://raw.githubusercontent.com/camp-minecraft/TechkidsCampTutorial/master/images/playbutton.png)を押してプログラムを動かしてみよう！
 
 プログラムを動かすにはどのようにすればよかったかな？
 

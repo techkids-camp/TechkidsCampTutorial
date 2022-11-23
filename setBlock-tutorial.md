@@ -9,7 +9,7 @@
 
 ```template
 player.onChat("start", function () {
-    agent.setItem(IRON_BLOCK, 1, 1)
+    agent.setItem(IRON_BLOCK, 64, 1)
     agent.place(DOWN)
 })
 

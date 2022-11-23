@@ -15,7 +15,7 @@
 
 ```template
 player.onChat("start", function () {
-    agent.setItem(IRON_BLOCK, 1, 1)
+    agent.setItem(IRON_BLOCK, 4, 1)
     for (let index = 0; index < 4; index++) {
         agent.place(FORWARD)
         agent.turn(RIGHT_TURN)

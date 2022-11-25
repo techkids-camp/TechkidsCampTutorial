@@ -4,4 +4,4 @@
 
 下の
 ![](https://raw.githubusercontent.com/camp-minecraft/TechkidsCampTutorial/master/images/finishbutton.png)
-を押して、プログラムを作ろう！
+を押して、、「start」とチャット欄に入力してプログラムを作ろう！

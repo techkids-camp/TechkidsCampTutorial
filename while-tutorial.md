@@ -11,10 +11,10 @@
 エージェントに「くり返し」のプログラムをやらせるには、``||agent.くり返し 4回||``ブロックを使うよ！
 ブロックの中の数字を変えて、くり返す回数を決めることができるよ！
 
-右下の![](https://raw.githubusercontent.com/camp-minecraft/TechkidsCampTutorial/master/images/playbutton.png)を押して、「start」とチャット欄に入力してプログラムを動かしてみよう！
+右下の![](https://raw.githubusercontent.com/camp-minecraft/TechkidsCampTutorial/master/images/playbutton.png)を押して、「run」とチャット欄に入力してプログラムを動かしてみよう！
 
 ```template
-player.onChat("start", function () {
+player.onChat("run", function () {
     agent.setItem(IRON_BLOCK, 4, 1)
     for (let index = 0; index < 4; index++) {
         agent.place(FORWARD)

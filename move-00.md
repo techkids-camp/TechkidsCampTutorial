@@ -9,11 +9,11 @@
 スタートのとなりのボタンを押せばリセットできるよ！
 
 ```ghost
-player.onChat("start", function () {
+player.onChat("run", function () {
     agent.move(FORWARD, 1)
 })
 ```
 
 ```template
-player.onChat("start", function () {})
+player.onChat("run", function () {})
 ```

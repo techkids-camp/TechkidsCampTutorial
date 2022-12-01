@@ -3,6 +3,7 @@
 
 ## エージェントにブロックをセットしよう！ @unplugged
 左側にあるチェストを開いてエージェントにアイテムを入れよう！
+![](https://raw.githubusercontent.com/camp-minecraft/TechkidsCampTutorial/master/images/chest.png)
 
 ## エージェントを使って、ブロックを設置しよう！
 

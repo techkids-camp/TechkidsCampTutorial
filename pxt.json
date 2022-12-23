@@ -21,6 +21,9 @@
         "doubleFor-tutorial.md",
         "doubleFor-general.md",
         "isOnBlock-tutorial.md",
+        "isOnBlock-general.md",
+        "func-tutorial.md",
+        "func-general.md",
         "general.md"
     ],
     "testFiles": [

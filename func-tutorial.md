@@ -22,7 +22,7 @@ player.onChat("run", function (num1) {
     mae(num1)
 })
 function mae (数値: number) {
-    agent.move(数値, 1)
+    agent.move(FORWARD, 数値)
 }
 
 ```

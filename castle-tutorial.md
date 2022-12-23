@@ -2,11 +2,10 @@
 # TechkidsCAMP
 
 ## コマンドを実行する
+
 右下の「▶」ボタンを押してから、「run」とチャットに入力してエージェントに命令してみよう！
 
 エージェントがスタートポータルを開いてくれるよ！
-
-
 
 ```template
 player.onChat("run", function () {
@@ -26,6 +25,5 @@ player.onChat("run", function () {
         agent.destroy(LEFT)
     }
 })
-
 
 ```

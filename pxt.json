@@ -17,6 +17,7 @@
         "destroyBlock-tutorial.md",
         "while-tutorial.md",
         "getId-tutorial.md",
+        "getId-general.md",
         "general.md"
     ],
     "testFiles": [

@@ -6,15 +6,13 @@
 
 ```ghost
 player.onChat("run", function () {
-    for (let index = 0; index < 2; index++) {
-        for (let index = 0; index < 4; index++) {
-            agent.destroy(FORWARD)
-            agent.turn(RIGHT_TURN)
-            agent.place(FORWARD)
-        }
-        agent.move(UP, 1)
+    if (!(agent.detect(AgentDetection.Block, FORWARD))) {
+        agent.move(FORWARD, 1)
+        agent.turn(LEFT_TURN)
+        agent.place(FORWARD)
     }
 })
+
 
 ```
 

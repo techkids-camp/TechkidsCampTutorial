@@ -23,7 +23,7 @@ jobs:
           cache: npm
       - name: npm install
         run: |
-          npm install -g pxt
+          npm install pxt
           pxt target arcade
       - name: build
         run: |

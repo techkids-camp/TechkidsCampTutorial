@@ -20,11 +20,11 @@ jobs:
       - name: debug
         run: |
           pwd
-      - name: Cache dependencies
-        uses: actions/cache@v2
-        with: ~/.npm
-        key: npm-${{ hashFiles('package-lock.json') }}
-        restore-keys: npm-
+      # - name: Cache dependencies
+      #   uses: actions/cache@v2
+      #   with: ~/.npm
+      #   key: npm-${{ hashFiles('package-lock.json') }}
+      #   restore-keys: npm-
       - name: npm install
         run: |
           npm install -g pxt

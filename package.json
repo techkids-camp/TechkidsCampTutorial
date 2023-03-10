@@ -1,0 +1,9 @@
+{
+  "name": "techkids-camp-tutorial",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "pxt": "^0.5.1",
+    "pxt-arcade": "^1.12.25"
+  }
+}

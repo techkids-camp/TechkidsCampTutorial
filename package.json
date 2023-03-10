@@ -4,6 +4,6 @@
   "private": true,
   "dependencies": {
     "pxt": ">=0.5.1",
-    "pxt-arcade": ">=1.12.25"
+    "pxt-arcade": "^1.12.25"
   }
 }

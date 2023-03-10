@@ -32,6 +32,11 @@ jobs:
       - name: npm install
         if: ${{ steps.node_cache_id.outputs.cache-hit != 'true' }}
         run: npm install
+
+      - name: make pkt.json
+        run: |
+          echo "{\"targetdir\": \"pxt-arcade\"}" > node_modules/pxtcli.json
+          cat node_modules/pxtcli.json
           
       - name: pxt install
         run: pxt install

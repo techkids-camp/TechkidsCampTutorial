@@ -1,3 +1,4 @@
+### @hideIteration true
 # TechkidsCAMP
 
 ## ここから先は自由にブロックを使ってプログラムをつくってみよう！

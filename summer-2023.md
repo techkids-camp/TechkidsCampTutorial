@@ -27,14 +27,14 @@ player.onChat("run", function () {
 function ここのなかにブロックをいれよう () {
 	
 }
-function ここは触らないでね () {
+function ここはさわらないでね () {
     player.execute(
     "function agent/agentcheck"
     )
 }
 player.onChat("run", function () {
     ここのなかにブロックをいれよう()
-    ここは触らないでね()
+    ここはさわらないでね()
 })
 
 ```
